@@ -1,9 +1,9 @@
 # api-sample
 Hi this is HOAI AN, set-up Express API Server make me painful so much so I decide to create this repo.
 ### Usage
-* Clone this repo: 
-`git clone https://github.com/HOAIAN2/api-sample.git`
-* Install dependencies: `npm install`
+* `git clone https://github.com/HOAIAN2/api-sample.git`
+* `cd api-sample`
+* `npm install`
 * `npm start`
 > This is an API Server so you can build your owner Front-End web app and put it into `public` folder
 
