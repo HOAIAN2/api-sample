@@ -1,5 +1,5 @@
 # api-sample
-Hi this is HOAI AN, set-up Express API Server make me painful so much so I decide to create this repo.
+Hi this is HOAI AN, I just set-up a very simple express api server. If you don't want set-up a full project, just download my repo.
 ### Usage
 * `git clone https://github.com/HOAIAN2/api-sample.git`
 * `cd api-sample`
